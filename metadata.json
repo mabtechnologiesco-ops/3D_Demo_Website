@@ -1,0 +1,6 @@
+{
+  "name": "ANUBIS PARFUMS — Scent of Eternity & Cast and Render",
+  "description": "Ancient Egyptian luxury perfumery experience combining immersive 3D flacons and cinematic scroll-scrubbed video studio showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
